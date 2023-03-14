@@ -2,7 +2,10 @@
 
 ## Installation
 
-Run on terminal - git clone "https://github.com/halelitzhaki/CS_Network_FinalProject.git" to install CS_Network_FinalProject.
+To install CS_Network_FinalProject, run on terminal - 
+```bash
+git clone "https://github.com/halelitzhaki/CS_Network_FinalProject.git"
+```
 
 Make sure to install the following libraries on python3 - 
 1. scapy - sudo pip install --pre scapy[basic]
