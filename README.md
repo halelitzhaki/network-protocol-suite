@@ -4,7 +4,7 @@
 
 To install CS_Network_FinalProject, run on terminal - 
 ```bash
-git clone "https://github.com/halelitzhaki/CS_Network_FinalProject.git"
+git clone https://github.com/halelitzhaki/CS_Network_FinalProject.git
 ```
 
 Make sure to install the following libraries on python3 - 
