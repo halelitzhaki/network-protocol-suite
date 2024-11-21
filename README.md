@@ -47,13 +47,9 @@ The system includes the following:
    ```bash
    cd network-protocol-suite
    ```
-3. Install dependencies:
+3. Run the main script:
    ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the main script:
-   ```bash
-   python Final_project.py
+   python final_project.py
    ```
 
 ### Notes
